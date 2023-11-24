@@ -1,0 +1,37 @@
+body {font-family: Arial, sans-serif; margin: 50px; background-color: lightyellow;}
+
+#TITLE {background-color: darkred;
+		color: white; padding: 20px; width: 20%; 
+
+		font-weight: bolder; 
+		font-size: 15spx; 
+		color: blanchedalmond;
+
+
+
+		border: dashed 8px;
+		border-color: blanchedalmond;
+	
+		border-radius: 30px;
+		text align: center;
+		width:95%;
+
+		}
+
+#TABLE {background-color: whitesmoke;
+
+		color:darkred;}
+
+button {
+    background-color: #007bff;
+    color: lightgoldenrodyellow;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+td {
+  text-align: center;
+}
+
+<!-- Property of Estefani Ann Bechayda -->
